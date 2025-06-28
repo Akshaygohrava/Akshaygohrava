@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 ## 🛠️ Languages and Tools
 
 - **Languages:** JavaScript, TypeScript, Python, Java, MySQL
-- **Frameworks:** React, Node.js, Express, Django, Spring Boot
+- **Frameworks:** React, Node.js, Express, MongoDB, Spring Boot
 - **Tools:** Git, Docker, Kubernetes, AWS, Jenkins
 
 ## 📈 GitHub Stats
